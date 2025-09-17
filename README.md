@@ -1,25 +1,50 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Hello%2C%20I'm%20Joseph%20Attakorah&fontAlign=50&fontAlignY=35&desc=Backend%20%26%20Cloud%20Engineer%20%E2%80%A2%20Python%20%7C%20JS%20%7C%20AI&descAlign=50&descAlignY=55&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Joseph%20Attakorah&fontAlign=50&fontAlignY=40&desc=Turning%20Complex%20Problems%20Into%20Elegant%20Solutions&descAlign=50&descAlignY=60&animation=twinkling)
 
-Hi, I’m Joseph — I turn slow systems into fast ones and complex problems into elegant solutions.
+<div align="center">
 
-- What I do: backend engineering, cloud infrastructure, and AI-powered features
-- Favorite stacks: Python (FastAPI), JavaScript/TypeScript (Node, Nest, Express), React/Angular
-- Tooling I enjoy: Docker, GitHub Actions, AWS/GCP, Postgres, MongoDB, Redis, Grafana
+### 🚀 Backend & Cloud Engineer | 🤖 AI Enthusiast | 📈 Performance Optimizer
 
-Highlights
-- 40% faster backend performance and 99.9% uptime at scale (3k+ concurrent users)
-- 25% faster deployments with CI/CD (GitHub Actions + Docker)
-- Built real-time bots and data pipelines; mentored engineers and improved team quality by 25%
+*I make systems faster, teams stronger, and impossible things possible*
 
-Now
-- Exploring LLMs and intelligent tooling to ship faster and smarter
+</div>
 
-Stats
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jizzel&show_icons=true&theme=transparent)
+---
 
-Let’s connect
-- Website: https://attakorah.com
-- LinkedIn: https://bit.ly/3U2s1c1
-- Email: jaattakorah@gmail.com
-- GitHub: https://github.com/jizzel
+## 🎯 **Impact at Scale**
 
+🔥 **40%** faster backends • 🛡️ **99.9%** uptime • 👥 **3k+** concurrent users  
+⚡ **25%** faster deployments • 🎓 Mentored engineers • 📊 **25%** team quality boost
+
+## 🛠️ **Tech Arsenal**
+
+```python
+stack = {
+    "backend": ["Python", "FastAPI", "Node.js", "NestJS", "Express"],
+    "frontend": ["React", "Angular", "TypeScript"],
+    "cloud": ["AWS", "GCP", "Docker", "Kubernetes"],
+    "data": ["PostgreSQL", "MongoDB", "Redis"],
+    "tools": ["GitHub Actions", "Grafana", "Prometheus"]
+}
+```
+
+## 🌟 **Currently Building**
+
+🧠 Exploring **LLMs** and intelligent tooling  
+🔬 Research in **Eolang** programming language  
+📝 Published in **Procedia Computer Science**
+
+---
+
+<div align="center">
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jizzel&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🤝 **Let's Connect**
+
+[![Website](https://img.shields.io/badge/🌐_Website-attakorah.com-blue?style=for-the-badge)](https://attakorah.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://bit.ly/3U2s1c1)
+[![Email](https://img.shields.io/badge/📧_Email-jaattakorah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaattakorah@gmail.com)
+
+*Always open to interesting conversations about tech, AI, and building the future* ✨
+
+</div>
