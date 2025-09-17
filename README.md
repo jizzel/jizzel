@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Joseph%20Attakorah&fontAlign=50&fontAlignY=40&desc=Turning%20Complex%20Problems%20Into%20Elegant%20Solutions&descAlign=50&descAlignY=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Joseph%20Attakorah&fontAlign=50&fontAlignY=40&desc=Software%20Engineer:%20Turning%20Complex%20Problems%20Into%20Elegant%20Solutions&descAlign=50&descAlignY=60&animation=twinkling)
 
 <div align="center">
 
