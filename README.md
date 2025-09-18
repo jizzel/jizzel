@@ -27,15 +27,31 @@ stack = {
 }
 ```
 
-## 🌟 **Currently Building**
+## 👋 About Me
 
-🧠 Exploring **LLMs** and intelligent tooling  
-🔬 Research in **Eolang** programming language  
-📝 Published in **Procedia Computer Science**
+I turn slow systems into fast ones, and complex problems into elegant solutions.
+
+Over the past 7 years, I’ve consistently delivered measurable impact across high-traffic platforms and mission-critical systems. But the numbers only tell half the story.
+
+What drives me is that moment when fragmented data becomes insight, when a sluggish backend scales effortlessly, or when a mentee ships their first major feature. I bring both the technical depth spanning Python and JavaScript ecosystems to cloud architecture and AI-powered applications, and the collaborative leadership that transforms ambitious roadmaps into shippable reality.
+
+Whether optimizing backend infrastructure, building features powered by generative AI, or designing resilient systems under load, my focus is simple: deliver work that moves users and businesses forward.
+
+Always learning, always building, currently exploring how LLMs and intelligent tooling are reshaping the future of software development.
+
+## 🌟 Featured Projects
+
+- **[Project One](#)**: High-performance backend for real-time analytics (Python, FastAPI, AWS)
+- **[Project Two](#)**: Scalable AI-powered recommendation engine (Node.js, Kubernetes, GCP)
+- **[Project Three](#)**: Mentorship platform for engineers (React, NestJS, PostgreSQL)
 
 ---
 
 <div align="center">
+
+### 💡 **Philosophy**
+
+Deliver work that moves users and businesses forward. Always learning, always building.
 
 ### 🤝 **Let's Connect**
 
