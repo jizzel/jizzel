@@ -37,8 +37,6 @@ stack = {
 
 <div align="center">
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jizzel&show_icons=true&theme=tokyonight&hide_border=true)
-
 ### 🤝 **Let's Connect**
 
 [![Website](https://img.shields.io/badge/🌐_Website-attakorah.com-blue?style=for-the-badge)](https://attakorah.com)
