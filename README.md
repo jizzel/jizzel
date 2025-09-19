@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer | Backend Developer | Fullstack Developer | 🤖 AI Enthusiast | 📈 Problem Solver
 
-*I make systems faster, teams stronger, and clients happy*
+*I make systems faster, teams stronger, and users happy*
 
 </div>
 
