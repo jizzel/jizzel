@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Backend & Cloud Engineer | 🤖 AI Enthusiast | 📈 Performance Optimizer
+### 🚀 Software Engineer | Backend Developer | Fullstack Developer | 🤖 AI Enthusiast | 📈 Problem Solver
 
 *I make systems faster, teams stronger, and impossible things possible*
 
