@@ -39,11 +39,14 @@ Whether optimizing backend infrastructure, building features powered by generati
 
 Always learning, always building, currently exploring how LLMs and intelligent tooling are reshaping the future of software development.
 
-## 🌟 Featured Projects
+[//]: # (## 🌟 Featured Projects)
 
-- **[Project One](#)**: High-performance backend for real-time analytics (Python, FastAPI, AWS)
-- **[Project Two](#)**: Scalable AI-powered recommendation engine (Node.js, Kubernetes, GCP)
-- **[Project Three](#)**: Mentorship platform for engineers (React, NestJS, PostgreSQL)
+[//]: # ()
+[//]: # (- **[Project One]&#40;#&#41;**: High-performance backend for real-time analytics &#40;Python, FastAPI, AWS&#41;)
+
+[//]: # (- **[Project Two]&#40;#&#41;**: Scalable AI-powered recommendation engine &#40;Node.js, Kubernetes, GCP&#41;)
+
+[//]: # (- **[Project Three]&#40;#&#41;**: Mentorship platform for engineers &#40;React, NestJS, PostgreSQL&#41;)
 
 ---
 
