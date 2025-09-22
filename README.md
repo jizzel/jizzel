@@ -12,7 +12,7 @@
 
 ## 🎯 **Impact at Scale**
 
-🔥 **40%** faster backends • 🛡️ **99.9%** uptime • 👥 **3k+** concurrent users  
+🔥 **20%** faster backends • 🛡️ **99.9%** uptime • 👥 **3k+** concurrent users  
 ⚡ **25%** faster deployments • 🎓 Mentored engineers • 📊 **25%** team quality boost
 
 ## 🛠️ **Tech Arsenal**
